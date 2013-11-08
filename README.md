@@ -1,4 +1,4 @@
-meetup-notes
+Meetup Notes
 ============
+Notes taken for the Hampton Roads PHP Meetup.
 
-Notes taken at the meetups.
